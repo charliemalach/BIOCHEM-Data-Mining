@@ -90,7 +90,7 @@ non-accredited schools’ programs, it had more in common with non-accredited sc
 
 Charlie Malachinski (Software Developer) - charlie.malachinski@valpo.edu
 
-Project Link: [https://github.com/charliemalach/BIOCHEM-Data-Mining](https://github.com/charliemalach/BIOCHEM-Data-Mining)
+Project Link: [https://github.com/charliemalach/BIOCHEM-Data-Mining](https://github.com/charliemalach/BIOCHEM-Data-Mining)<br>
 Project Demo: [https://youtu.be/88RqzTQ1-U8](https://youtu.be/88RqzTQ1-U8)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
