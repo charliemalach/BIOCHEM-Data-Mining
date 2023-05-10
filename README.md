@@ -96,9 +96,9 @@ Project Link: [https://github.com/charliemalach/BIOCHEM-Data-Mining](https://git
 
 <!-- ACKNOWLEDGMENTS -->
 
-## Acknowledgments
+## Acknowledgments & Tools
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Here is a list of tools and dependencies we utilized in our project: 
 
 - [Python](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
