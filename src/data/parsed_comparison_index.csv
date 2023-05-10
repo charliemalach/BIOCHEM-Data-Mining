@@ -1,0 +1,52 @@
+School,Courses,Accredited,PDF,XML,Found
+Adrian College,"CHEM-341, CHEM-342",0,0,0,y
+Aquinas College,CY-325,0,0,0,y
+Ball State University,CHEM-463,0,0,1,y
+Bethel College,"BIOL 460, BIOL-460, CHEM-460",0,0,1,y
+Butler University,"BI-350, CH-361, CH-462",0,0,0,x
+Central Michigan Univ,"BIO-324, CHM-425",1,0,0,x
+Chicago State University,BIOL-3050,0,0,0,y
+College of William and Mary,BIOL-414,0,0,0,x
+Colorado State University,"LIFE-210, LIFE-212, BC-351",1,0,0,y
+Concordia University Irvine,BIO-350,0,0,0,y
+DePaul University,BIO-250,0,0,0,x
+DePauw University,"BIO-314, CHEM-240",0,1,1,y
+Earlham College,"BIOL-341, CHEM-351",1,0,0,X
+Grand Valley State University,"CHM-461, CHM-232",0,0,0,X
+Hope College,"BIOL-366, CHEM-311",1,0,0,y
+Indiana University Bloomington,"BIOL-S211, CHEM-C483, CHEM-C484, CHEM-C485",0,0,0,X
+Indiana University Northwest,"CHEM-C483, CHEM-C484",0,0,0,X
+Indiana University South Bend,CHEM-C484,0,0,0,X
+Ivy Tech Community College - Indianapolis,BIOL-221,0,0,0,y
+Lake Superior State University,CHEM-351,0,0,0,X
+Loyola University Chicago,"BIOL 382, BIOL 283",0,1,1,y
+Marquette University,BISC-3213,0,0,0,X
+Metropolitan State College-Denver,"CHE-4310, CHE-4320",0,0,0,X
+Michigan State University,"BMB-461, BMB-401, BMB-462",0,0,0,y
+Millsaps College,"CHEMISTRY-3610, CHEMISTRY-3620",0,0,0,X
+Monmouth College,"BIOL-354, BIOL 355, CHEM-330, CHEM-390",0,0,0,y
+Oakland University,"BIO-309, BIO-310, BIO-325",0,0,0,X
+Ohio State University,BIOCHEM-4511,0,0,0,y
+Purdue University,"BCHM-561, CHM-33300, BCHM-30700, BCHM-56100, MCMP-30400, MCMP-30500",1,1,1,y
+Purdue University North Central,"BIOL-23100, BIOL-23200",0,0,0,X
+Purdue University Northwest,"BIOL-243, BIOL-24300, BIOL-320, CHM-33300",0,0,0,X
+Saginaw Valley State University,BIOL-360,0,0,0,X
+Southern IL Univ Carbondale,CHEM-350,0,0,0,y
+St Josephs College,"BIO-379, BIO-379L, CHM-379",1,0,0,y
+St Mary's College,BIO-230,0,0,0,y
+Univ Colorado Boulder,CHEM-4711,0,0,0,y
+Univ Colorado Denver,"BIOL-3124, BIOL-4125, BIOL-3611, CHEM-3810",0,0,0,y
+Univ Mass Boston,BIOL-210,0,0,0,X
+Univ Minnesota Twin Cities,BIOC-3021,1,0,0,y
+Univ of Illinois At Chicago,BIOS-222,0,0,0,X
+Univ of Montana Western,"BIOB-260, BIO-255",0,0,0,X
+Univ St Francis,"CHEM-322, CHEM-323",0,0,0,y
+Univ Texas San Antonio,"BIO-3813, BIO-3822",0,0,0,X
+University of Dayton,CHM-420,0,0,0,X
+University of Michigan,BIOCHEMISTRY-41,0,0,0,X
+University of Nevada Reno,BCH-400,1,0,0,X
+University of San Diego,CHEM-331,1,0,0,y
+University of Wisconsin - La Crosse,"BIO-315, CHM-325",1,0,0,y
+Waubonsee Community College,CHM-202,0,0,0,y
+Western Illinois University,BIOL-330,0,0,0,y
+Western Michigan University,CHEM-3550,0,0,0,X
