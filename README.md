@@ -7,10 +7,10 @@
     <img src="./image/logo.png" alt="Logo" width="100" height="125">
   </a>
 
-  <h3 align="center">Bio Chem Data Mining</h3>
+  <h3 align="center">BIOCHEM Data Mining</h3>
 
   <p align="center">
-    An exhaustive overview of the Bio Chem Data Mining Application
+    An exhaustive overview of the BIOCHEM Data Mining Application
     <br />
   </p>
 </div>
