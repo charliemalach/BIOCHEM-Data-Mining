@@ -70,7 +70,7 @@ had more in common with the biochemistry programs of non accredited schools. Thi
 our original hypothesis that although Valpo’s biochemistry was different from accredited and
 non-accredited schools’ programs, it had more in common with non-accredited schools.
 
-![Main Application][main]
+![Main Application][main-screenshot]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,7 +101,17 @@ Project Link: [https://github.com/charliemalach/BIOCHEM-Data-Mining](https://git
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 - [Python](https://www.python.org/)
-- [Expo Go](https://expo.dev/client)
+- [Pandas](https://pandas.pydata.org/)
+- [Nltk](https://www.nltk.org/)
+- [Regular Expression (re)](https://docs.python.org/3/library/re.html)
+- [Numpy](https://numpy.org/)
+- [Matplotlib.pylplot](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [LDA (LatentDirichletAllocation)](http://scikit-learn.sourceforge.net/stable/modules/generated/sklearn.lda.LDA.html)
+- [pyLDAvis](https://github.com/bmabey/pyLDAvis)
+- [Warnings](https://docs.python.org/3/library/warnings.html)
+- [Pickle](https://docs.python.org/3/library/pickle.html)
+- [TfidfVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
